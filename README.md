@@ -8,5 +8,5 @@ Please acknowledge using this code or database by citing our work as Colombet, O
 
 This repository contains the following files:
 
-    NOVA_NDNS_code.R : codes for the classification, waves 1 to 11
+    NOVA_NDNS_code_Z&Y.R : codes for the classification, waves 1 to 11
     NDNS_NOVA_DATABASE.new2023 : database classifying every NDNS food and drinks into the NOVA classification
